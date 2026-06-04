@@ -18,3 +18,6 @@ My background includes data analytics, business analysis, and process improvemen
 ### Currently
 
 🚀 Growing ApplyStream and exploring new ways to apply AI and analytics to solve career and business challenges.
+
+🔗 Featured Project
+ApplyStream – https://applystream.org
